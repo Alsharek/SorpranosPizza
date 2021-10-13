@@ -1,0 +1,96 @@
+.img-thumbnail {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    
+    
+}
+.img-thumbnail:hover {
+color: rgb(80, 15, 141);
+background-color: rgb(235, 50, 50);
+}
+.jumbotron {
+    padding: 50px;
+    margin: 80px; 
+    background-color: darkgoldenrod;
+
+}
+
+.rounded float-end {
+    height: 90px;
+    width: 90px;
+}
+.nav-item :hover {
+    color: rgb(255, 0, 170);
+    font-family: 'Press Start 2P', cursive;
+    
+    }
+
+.img-fluid {
+    height: 30px;
+    width: 30px;
+
+}
+.container {
+    padding: 90
+}
+.card-show {
+    
+    width: 90%;
+    margin-left: 80px;
+
+}
+body {
+    overflow-x: hidden;
+    background-color:rgb(228, 59, 59)
+
+}
+ 
+h1 {
+    
+    font-family: 'Goldman', cursive;
+}
+
+P {
+    
+    font-family: 'Press Start 2P', cursive;
+}
+
+h6 {
+    font-family: 'Goldman', cursive;
+}
+
+.nav-item {
+    font-family: 'Goldman', cursive;
+    font: weight 900px;
+    color: rgb(255, 255, 255);
+    margin-left: 50px;
+    font-size: 25px;
+    padding-left: 15px
+}
+
+.navbar-brand {
+    font-family: 'Goldman', cursive;
+    font-size: 30px;
+}
+.jumbotron-img {
+    margin-top: 10%;
+}
+
+.contact-form {
+    margin-top: 30%;
+}
+
+.gallery {
+	padding: 80px 0px;
+}
+img{
+	max-width: 100%;
+}
+.gallery img{
+	background: #fff;
+	padding: 15px;
+	width: 100%;
+	box-shadow: 0px 0px 15px rgba(0,0,0,0.3);
+	cursor: pointer;
+}
